@@ -1,0 +1,5 @@
+writer-1 [pid:0] has finished writing 8 pieces of data to the data-buffer
+writer-2 [pid:0] has finished writing 8 pieces of data to the data-buffer
+writer-3 [pid:0] has finished writing 9 pieces of data to the data-buffer
+reader-1 [pid:0] has finished reading 25 pieces of data from the data-buffer
+reader-2 [pid:0] has finished reading 25 pieces of data from the data-buffer
